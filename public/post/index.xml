@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on World Civilisations</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on World Civilisations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>John Doe - All rights reserved</copyright>
+    <lastBuildDate>Thu, 25 May 2023 11:01:55 +0200</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>/post/my-first-post/</link>
+      <pubDate>Thu, 25 May 2023 11:01:55 +0200</pubDate>
+      
+      <guid>/post/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!
+Subtitle : {{ .Site.Params.subtitle }}
+test &amp;ldquo;/1.jpg&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Eighth</title>
+      <link>/post/eighth/</link>
+      <pubDate>Sun, 07 Oct 2018 11:40:11 +0200</pubDate>
+      
+      <guid>/post/eighth/</guid>
+      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>/post/first_post/</link>
+      <pubDate>Sun, 07 Oct 2018 11:17:14 +0200</pubDate>
+      
+      <guid>/post/first_post/</guid>
+      <description>This is my first post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
+    </item>
+    
+    <item>
+      <title>About Bundler</title>
+      <link>/post/2018-05-12-about-bundler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-05-12-about-bundler/</guid>
+      <description>gem install bundler installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project.</description>
+    </item>
+    
+    <item>
+      <title>Accumulated experience of social living</title>
+      <link>/post/2018-06-12-acumulated-experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-06-12-acumulated-experience/</guid>
+      <description>The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.
+As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very.</description>
+    </item>
+    
+    <item>
+      <title>Ancient China</title>
+      <link>/post/2023-01-01-ancient-china/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-01-ancient-china/</guid>
+      <description>The civilization of ancient China emerged along the Yellow River in northeastern Asia around 3,500 years ago, and it lasted for over 2,000 years until the end of the Han Dynasty in 220 CE.</description>
+    </item>
+    
+    <item>
+      <title>Ancient Egypt</title>
+      <link>/post/2023-01-01-ancient-egypt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023-01-01-ancient-egypt/</guid>
+      <description>The civilisation of Ancient Egypt flourished along the Nile River, in northeastern Africa, for over 3,000 years, from around 3100 BCE to the conquest of Egypt by Alexander the Great in 332 BCE.</description>
+    </item>
+    
+    <item>
+      <title>Education must also train one for quick, resolute and effective thinking.</title>
+      <link>/post/2018-06-12-education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-06-12-education/</guid>
+      <description>There are lots of powerful things you can do with the Markdown editor
+If you&amp;rsquo;ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!</description>
+    </item>
+    
+    <item>
+      <title>External Featured Image</title>
+      <link>/post/2018-01-12-is-intelligence-enough/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-01-12-is-intelligence-enough/</guid>
+      <description>Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one&amp;rsquo;s self is very difficult.
+We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda.</description>
+    </item>
+    
+    <item>
+      <title>Inception Movie</title>
+      <link>/post/2018-01-11-customer-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-01-11-customer-service/</guid>
+      <description>Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
+How to use? It&amp;rsquo;s actually really simple!</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s test spoilers</title>
+      <link>/post/2018-01-11-quick-start-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-01-11-quick-start-guide/</guid>
+      <description>Director Roland Suso Richter&amp;rsquo;s enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney&amp;rsquo;s own play &amp;ldquo;Point of Death&amp;rdquo; - a title that gave away the film&amp;rsquo;s entire plot twist premise.</description>
+    </item>
+    
+    <item>
+      <title>Never stopped worrying or loving the bomb</title>
+      <link>/post/2018-01-12-never-stopped-worrying-never-loved-bomb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-01-12-never-stopped-worrying-never-loved-bomb/</guid>
+      <description>I’ve been through fire and water, I tell you! From my earliest pebblehood the wildest things you could imagine have been happening to this world of ours, and I have been right in the midst of them.</description>
+    </item>
+    
+    <item>
+      <title>Options for creating a new site with Jekyll</title>
+      <link>/post/2018-01-12-options-for-creating-new-site-with-jekyll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-01-12-options-for-creating-new-site-with-jekyll/</guid>
+      <description>jekyll new &amp;lt;PATH&amp;gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called myblog.</description>
+    </item>
+    
+    <item>
+      <title>Powerful things you can do with the Markdown editor</title>
+      <link>/post/2018-06-12-powerful-things-markdown-editor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-06-12-powerful-things-markdown-editor/</guid>
+      <description>There are lots of powerful things you can do with the Markdown editor. If you&amp;rsquo;ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!</description>
+    </item>
+    
+    <item>
+      <title>Press and education</title>
+      <link>/post/2018-01-12-press-and-education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-01-12-press-and-education/</guid>
+      <description>Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education.</description>
+    </item>
+    
+    <item>
+      <title>Red Riding Hood</title>
+      <link>/post/2018-01-12-red-riding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-01-12-red-riding/</guid>
+      <description>The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet.</description>
+    </item>
+    
+    <item>
+      <title>The first mass-produced book to deviate from a rectilinear format</title>
+      <link>/post/2018-06-12-first-mass-produced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-06-12-first-mass-produced/</guid>
+      <description>The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet.</description>
+    </item>
+    
+    <item>
+      <title>Tree of Codes</title>
+      <link>/post/2018-01-12-tree-of-codes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-01-12-tree-of-codes/</guid>
+      <description>The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet.</description>
+    </item>
+    
+    <item>
+      <title>We all wait for summer</title>
+      <link>/post/2018-01-12-we-all-wait-for-summer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-01-12-we-all-wait-for-summer/</guid>
+      <description>As I engage in the so-called &amp;ldquo;bull sessions&amp;rdquo; around and about the school, I too often find that most college men have a misconception of the purpose of education.</description>
+    </item>
+    
+  </channel>
+</rss>

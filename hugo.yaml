@@ -1,0 +1,30 @@
+baseURL: ""
+languageCode: en-us
+title: World Civilisations
+
+
+
+theme : lightbi
+params:
+    bigimg : /1.jpg
+    subtitle: my subtitle 
+    homeTitle: Home title (?)
+
+
+menu:
+  main:  # can be footer , also
+  - name: Home
+    pageRef: /
+    weight: 10
+  - name: About
+    pageRef: /about
+    weight: 20
+  - name: Services
+    pageRef: /services
+    weight: 30
+
+# copied : not applicable ?
+summaryLength: 25
+copyright : "John Doe - All rights reserved"
+enableEmoji : true
+# publishDir : "docs"

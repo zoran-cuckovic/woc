@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web development on World Civilisations</title>
+    <link>/categories/web-development/</link>
+    <description>Recent content in web development on World Civilisations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>John Doe - All rights reserved</copyright><atom:link href="/categories/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>External Featured Image</title>
+      <link>/post/2018-01-12-is-intelligence-enough/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-01-12-is-intelligence-enough/</guid>
+      <description>Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one&amp;rsquo;s self is very difficult.
+We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda.</description>
+    </item>
+    
+  </channel>
+</rss>
