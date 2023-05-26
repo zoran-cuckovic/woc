@@ -20,10 +20,10 @@
 
   targetPort = 3000
 
-[[plugins]]
+#[[plugins]]
 
-  package = "netlify-plugin-cypress"
+#  package = "netlify-plugin-cypress"
 
-  [plugins.inputs]
+#  [plugins.inputs]
 
-    record = true
+#    record = true
