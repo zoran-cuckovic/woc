@@ -1,0 +1,24 @@
+<!--
+If you want to include any custom html just before </head>, put it in /layouts/partials/head_custom.html
+Do not put anything in this file - it's only here so that hugo won't throw an error if /layouts/partials/head_custom.html doesn't exist.
+
+<style>
+@media screen and (min-width: 769px) {
+    /* .post-content is a class which will be present only on single pages 
+        and not lists and section pages in Hugo */
+    .post-content input[type="checkbox"]:checked ~ label > img {
+        transform: scale(1.6);
+        cursor: zoom-out;
+        position: relative;
+        z-index: 999;
+    }
+
+    .post-content img.zoomCheck {
+        transition: transform 0.15s ease;
+        z-index: 999;
+        cursor: zoom-in;
+    }
+}
+</style>
+
+-->

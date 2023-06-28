@@ -4,11 +4,13 @@ title: World Civilisations
 
 
 
-theme : lightbi # REPLACE WITH lightbi-hugo !
+theme : hugo-theme-chunky-poster #lightbi-hugo # beautifulhugo # REPLACE WITH lightbi-hugo !
 params:
-    bigimg : /1.jpg
-    subtitle: my subtitle 
-    homeTitle: Home title (?)
+    bigimg :  /2.jpg
+    homeTitle: Discover the past 
+    subtitle: ... and have fun in the process.
+    
+
 
 
 menu:
